@@ -1,4 +1,4 @@
-a)
+// a)
 #include <stdio.h>
 #include <string.h>
 int main(){
@@ -9,7 +9,7 @@ int main(){
     return 0;
 }
 
-b)
+// b)
 #include <stdio.h>
 #include <string.h>
 int main(){
@@ -23,7 +23,7 @@ int main(){
     return 0;
 }
 
-c)
+// c)
 #include <stdio.h>
 #include <string.h>
 int vowel(char c){
@@ -43,7 +43,7 @@ int main(){
     return 0;
 }
 
-d)
+// d)
 #include <stdio.h>
 #include <string.h>
 int main(){
@@ -65,7 +65,7 @@ int main(){
     return 0;
 }
 
-e)
+// e)
 #include <stdio.h>
 #include <ctype.h>
 int main(){
@@ -75,4 +75,5 @@ int main(){
     printf("%c\n", c);
     return 0;
 }
+
 
